@@ -8,4 +8,6 @@
 ## Project 2:[A Virtual Machine in C] 
 - a VM in C to execute programs in Ninja
 
-## Project 3:[Connect Four Game]
+## Project 3:[Connect Four Game](https://github.com/MehmetTerc/Connect_Four)
+- a connect four game in Java
+- with documentation and testing
